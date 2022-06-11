@@ -1,7 +1,7 @@
 ### Hi there, Guilherme here 👋
 
 
-I'm a **Web Developer** and a **learning maniac**🕵️‍♂️🤖.
+I'm a **Web Developer** and a **technology lover**👩‍💻🤖.
 
 - ⚛️ Skills: Javascript, Typescript and C#
 - 🌱 Currently learning: React Native, Ionic, React and new methodologies

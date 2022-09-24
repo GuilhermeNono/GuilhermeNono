@@ -3,7 +3,7 @@
 
 I'm a **Web Developer** and a **technology lover**👩‍💻🤖.
 
-- ⚛️ Skills: Javascript, Typescript and C#
+- ⚛️ Skills: Javascript, Typescript and Java
 - 🌱 Currently learning: React Native, Ionic, React and new methodologies
 - 📫 How to Reach me: Chat with me on <a href="https://www.linkedin.com/in/guilherme-nono/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - 📚 Hobbies: Programming, Play Games and Learn new things 

@@ -1,4 +1,4 @@
-### Hi there, Guilherme here 👋
+### Hi there, I'm Guilherme <img style="width:5%" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif">
 
 
 I'm a **Web Developer** and a **technology lover**👩‍💻🤖.

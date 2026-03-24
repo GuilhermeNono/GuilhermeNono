@@ -4,7 +4,7 @@
 I'm a **Web Developer** and a **technology lover**👩‍💻🤖.
 
 - ⚛️ Skills: Javascript, Typescript, Java, C# and Go
-- 🌱 Currently learning: .NET, Golang, design patterns and architectures
+- 🌱 Currently learning: Golang, design patterns and architectures
 - 📫 How to Reach me: Chat with me on <a href="https://www.linkedin.com/in/guilherme-nono/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - 📚 Hobbies: Programming, Play Games and Learn new things 
 - ⚡ Fun fact: The first computer created by IBM only stored 5 MB (mega-bytes) of data.

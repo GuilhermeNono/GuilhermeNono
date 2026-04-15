@@ -1,7 +1,7 @@
 # Hi there, I'm Guilherme 👋
 <br>I'm a **Web Developer** and a **technology lover**👩‍💻🤖.<br><br>- ⚛️ Skills: Javascript, Typescript, Java, C# and Go<br>- 🌱 Currently learning: Golang, design patterns and architectures</a> <br>- 📚 Hobbies: Programming, Play Games and Learn new things <br>- ⚡ Fun fact: The first computer created by IBM only stored 5 MB (mega-bytes) of data
 
-[![](https://komarev.com/ghpvc/?username=GuilhermeNono&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=GuilhermeNono&icon=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-nono)
 
